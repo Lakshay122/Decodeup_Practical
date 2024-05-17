@@ -1,0 +1,11 @@
+{
+    "requiredFields": "All fields are required",
+    "invalidInput": "Invalid input provided",
+    "unauthorizedAccess": "Unauthorized access",
+    "serverError": "Internal server error",
+    "notFound": "Resource not found, Try again with Correct fields",
+    "duplicateEntry": "Duplicate entry found",
+    "validationError": "Validation error, Try again with Correct fields",
+    "oneImageError":"Minimum one image is required for user story"
+}
+  
